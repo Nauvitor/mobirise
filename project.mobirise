@@ -50,7 +50,7 @@
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "on",
+    "robotsSwitcher": "",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/logo-lotofacil-1-128x128.png",

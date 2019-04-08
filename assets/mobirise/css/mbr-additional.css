@@ -1466,9 +1466,9 @@ body {
   color: #f7ed4a;
 }
 .cid-rmBaXjJxEw {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/loto-8-1280x720.jpg");
+  padding-top: 135px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/loteria-lotofacil-2-800x500.jpg");
 }
 .cid-rmBaXjJxEw P {
   color: #767676;
@@ -1480,6 +1480,77 @@ body {
 }
 .cid-rmIQnZRxZL P {
   color: #767676;
+}
+.cid-rn5VPSRj7l {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rn5VPSRj7l .mbr-section-btn > * {
+  margin: 0;
+}
+.cid-rn5VPSRj7l h4 {
+  font-weight: 500;
+}
+.cid-rn5VPSRj7l p {
+  color: #232323;
+}
+.cid-rn5VPSRj7l .aside-content {
+  -webkit-flex-basis: 100%;
+  flex-basis: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.cid-rn5VPSRj7l .block-content {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  word-break: break-word;
+}
+.cid-rn5VPSRj7l .media {
+  margin: initial;
+  align-items: center;
+  -webkit-align-items: center;
+}
+.cid-rn5VPSRj7l .mbr-figure {
+  align-self: flex-start;
+  -webkit-align-self: flex-start;
+  -webkit-flex-shrink: 0;
+  flex-shrink: 0;
+}
+.cid-rn5VPSRj7l .card-img {
+  padding-right: 2rem;
+  width: auto;
+}
+.cid-rn5VPSRj7l .card-img span {
+  font-size: 72px;
+  color: #707070;
+}
+@media (min-width: 992px) {
+  .cid-rn5VPSRj7l .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rn5VPSRj7l .mbr-figure {
+    padding-right: 0;
+    padding-bottom: 1rem;
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 300px) {
+  .cid-rn5VPSRj7l .card-img span {
+    font-size: 40px !important;
+  }
+}
+.cid-rn5VPSRj7l .cost {
+  text-decoration: line-through;
+  color: #767676;
+}
+.cid-rn5VPSRj7l .text2,
+.cid-rn5VPSRj7l .mbr-section-btn {
+  text-align: center;
 }
 .cid-rmwmxRaaga {
   padding-top: 90px;
@@ -1692,67 +1763,25 @@ body {
 .cid-rmIUGMc9xw P {
   color: #767676;
 }
-.cid-rmBhBhTT2s {
-  padding-top: 15px;
-  padding-bottom: 45px;
-  background-color: #efefef;
+.cid-rn5Q5XrjMM {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #ffffff;
 }
-.cid-rmBhBhTT2s .mbr-slider .carousel-control {
-  background: #1b1b1b;
+.cid-rn5Q5XrjMM h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
 }
-.cid-rmBhBhTT2s .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
+.cid-rn5Q5XrjMM p {
+  color: #767676;
+  text-align: left;
 }
-.cid-rmBhBhTT2s .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
+.cid-rn5Q5XrjMM .card-box {
+  padding-top: 2rem;
 }
-.cid-rmBhBhTT2s .mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.cid-rmBhBhTT2s .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
+.cid-rn5Q5XrjMM .card-wrapper {
   height: 100%;
-  background: #554346;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
-}
-.cid-rmBhBhTT2s .mbr-gallery-item > div:hover .mbr-gallery-title::before {
-  background: transparent !important;
-}
-.cid-rmBhBhTT2s .mbr-gallery-item > div:hover:before {
-  opacity: 0.9 !important;
-}
-.cid-rmBhBhTT2s .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  z-index: 2;
-}
-.cid-rmBhBhTT2s .mbr-gallery-title:before {
-  content: " ";
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  position: absolute;
-  background: #554346 !important;
-  opacity: 0.9;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-rmBqBoH0mf {
   padding-top: 30px;
